@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<passengerlist>
+	<Passenger>
+		<TicketNo>213212</TicketNo>
+		<Name>Anders And</Name>
+		<PassportNo>210020201029</PassportNo>
+		<FlightNo>SA2222</FlightNo>
+	</Passenger>
+	<Passenger>
+		<TicketNo>333333</TicketNo>
+		<Name>Mickey Mouse</Name>
+		<PassportNo>2193012909120</PassportNo>
+		<FlightNo>SA2222</FlightNo>
+	</Passenger>
+	<Passenger>
+		<TicketNo>213122</TicketNo>
+		<Name>Foo Bar</Name>
+		<PassportNo>2131221312</PassportNo>
+		<FlightNo>SA2222</FlightNo>
+	</Passenger>
+</passengerlist>

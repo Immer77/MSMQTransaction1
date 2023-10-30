@@ -54,12 +54,12 @@ namespace EventDrivenConsumer
 
                 CheckInPassenger(PassengerToCheckIn, validate);
                 Console.WriteLine(PassengerToCheckIn.ToString());
-                Thread.Sleep(4000);
+                //Thread.Sleep(4000);
             }
             mq.BeginReceive();
         }
 
-        public void CheckInPassenger(Passenger passenger, Predicate<Passenger> validate) 
+        private void CheckInPassenger(Passenger passenger, Predicate<Passenger> validate) 
         {
             if(validate(passenger))
             {

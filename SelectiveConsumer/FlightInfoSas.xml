@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FlightInfo>
+	<id>1337</id>
+	<Destination>LAX</Destination>
+	<FlightNr>SA1122</FlightNr>
+	<Arrival>10-12-2023 15:15:10 UTC</Arrival>
+</FlightInfo>
